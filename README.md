@@ -1,6 +1,8 @@
-## Hi, I am Annalena Kofler! 👋
+## Hi, I'm Annalena Kofler! 👋
 
-- 🔭 I’m currently working on machine learning for gravitational waves. 
+I'm a PhD student at the [Max Planck Institute for Intelligent Systems](https://is.mpg.de) in Tübingen, Germany.
+
+- 🔭 I’m currently working on machine learning for gravitational waves data analysis. 
 - 🍹 Ask me about my love for Spezi flavors.
 - 📫 How to reach me: Drop me an email at firstname.lastname@tuebingen.mpg.de.
 - 💬 Pronouns: she/her
